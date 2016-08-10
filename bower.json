@@ -1,0 +1,19 @@
+{
+    "name": "chrome-ajax-bug",
+    "authors": [
+        "John Grogg <johng@freshrealm.co>"
+    ],
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "angular": "1.5.X",
+        "angular-animate": "1.5.X",
+        "angular-bootstrap": "1.3.X",
+        "angular-resource": "1.5.X",
+        "angular-sanitize": "1.5.X",
+        "angular-ui-router": "0.3.X",
+        "async": "1.5.X",
+        "bootstrap": "3.3.X",
+        "jquery": "2.2.X"
+    }
+}

@@ -1,0 +1,6 @@
+<h1>State 1</h1>
+<p>
+    <button type="button" class="btn btn-primary" ng-click="vm.goToState2()">Go To State 2</button>
+</p>
+<pre ng-show="!vm.loading">{{ vm.result1 | json }}</pre>
+<p ng-show="vm.loading">{{ vm.loading }}</p>
